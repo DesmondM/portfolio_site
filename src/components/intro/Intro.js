@@ -12,14 +12,19 @@ const Intro = () => {
           <div className="i-title">
             <div className="i-title-wrapper">
               <div className="i-title-item">Web Developer</div>
-              <div className="i-title-item">Full stack Developer</div>
-              <div className="i-title-item">MERN Stack Specialist</div>
+              <div className="i-title-item">Computer Science Graduate</div>
+              <div className="i-title-item">Honours Student</div>
               <div className="i-title-item">Graphic Designer</div>
               <div className="i-title-item">Coding and Coffee Addict</div>
             </div>
           </div>
           <p className="i-desc">
-            I am web developer, graphic designer and coding addict. I write code and develop websites and web based apps of any size.
+            I recently completed my BSC Computing degree with University of South Africa,
+on top of that I have Web development, PHP Programming and Java
+Programming Certifications with the same institution. I have vast experience as
+a Graphic designer (Photoshop, Indesign, Illustrator) and some good experience
+on Web Development (HTML, PHP, Javascipt and CSS). My Software development experience other than PHP and MYSQL are purely
+academic, using C++ and Java
           </p>
         </div>
         <svg

@@ -16,20 +16,20 @@ const About = () => {
         </div>
       </div>
       <div className="a-right">
-        <h1 className="a-title">About Me</h1>
+        <h1 className="a-title">Why I want to be part of SovTech</h1>
         <p className="a-sub">
-          It is a long established fact that a reader will be distracted by the
-          readable content.
+          SovTech has real industry experience in providing world class software solutions and I would like to be part of solutions to the industry's software solutions needs. I like solving problems through code, an area that is SovTech's speciality. The culture of continous learning and collaboration and world wide deployment of work is attractive for an software developer whether one is a beginner or an expert.
+
         </p>
         <p className="a-desc">
-          This is the information about me. This is the information about me. This is the information about me. This is the information about me. This is the information about me. This is the information about me. This is the information about me.
+          The portfolio of your products from mobile and web apps, blockchain, enterprise applications, cloud and cyber security, are almost a garuantee that I would find immense interest in one of those domains.
         </p>
         <div className="a-award">
           <img src={Award} alt="" className="a-award-img" />
           <div className="a-award-texts">
-            <h4 className="a-award-title">International Design Awards 2021</h4>
+            <h4 className="a-award-title">Accolades alluded to SovTech</h4>
             <p className="a-award-desc">
-              This is the information about me. This is the information about me.
+              Prestigious ranking of top 50 software development companies. Most people incuding myself would love to be associated with such organisations .
             </p>
           </div>
         </div>
